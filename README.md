@@ -1,2 +1,2 @@
-# roteiros-leda
-Implementações dos Roteiros da disciplina Laboratório de Estrutura de Dados
+# Roteiros LEDA
+Roteiros da disciplina Laboratório de Estruturas de Dados da Universidade Federal de Campina Grande.
