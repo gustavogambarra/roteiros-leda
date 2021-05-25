@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-10-05T02:33:46.388-0300</date>
+  <logger>GUSTAVO DA COSTA NOBREGA GAMBARRA</logger>
+  <level>FINE</level>
+  <message>File 118210686-GUSTAVO DA COSTA NOBREGA GAMBARRA.zip was received. It was sent by GUSTAVO DA COSTA NOBREGA GAMBARRA from IP 192.168.0.107 at 05-10-2020 02*33*46</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-10-05T03:09:37.983-0300</date>
+  <logger>GUSTAVO DA COSTA NOBREGA GAMBARRA</logger>
+  <level>FINE</level>
+  <message>File 118210686-GUSTAVO DA COSTA NOBREGA GAMBARRA.zip was received. It was sent by GUSTAVO DA COSTA NOBREGA GAMBARRA from IP 192.168.0.107 at 05-10-2020 03*09*37</message>
+</record>
